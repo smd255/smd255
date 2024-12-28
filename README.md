@@ -1,6 +1,5 @@
 ## Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smd255&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=smd255)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
