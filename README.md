@@ -1,7 +1,6 @@
 ## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats-clone-enb2.vercel.app/api/?username=smd255&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-clone-enb2.vercel.app/api?username=smd255&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-clone-enb2.vercel.app/api/top-langs/?username=smd255&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=smd255&title=Commit&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
