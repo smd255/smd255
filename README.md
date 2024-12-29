@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Top Langs](https://github-readme-stats-clone-enb2.vercel.app/api/top-langs/?username=smd255&exclude_repo=github-readme-stats-clone&count_private=true)]
+![Top Langs](https://github-readme-stats-clone-enb2.vercel.app/api/top-langs/?username=smd255&exclude_repo=github-readme-stats-clone&count_private=true)
 
 
 
