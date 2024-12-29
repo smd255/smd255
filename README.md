@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats-fork-puce-iota.vercel.app/api?username=smd255&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-fork-puce-iota.vercel.app/api/top-langs/?username=smd255&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
