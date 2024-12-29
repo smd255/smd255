@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Top Langs](https://github-readme-stats-fork-git-master-smd255s-projects.vercel.app/api/top-langs/?username=smd255&count_private=true)
+![Top Langs](https://github-readme-stats-fork-git-master-smd255s-projects.vercel.app/api/top-langs/?username=smd255)
 
 
 
