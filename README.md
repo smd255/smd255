@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats-clone-enb2.vercel.app/api?username=smd255&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-clone-enb2.vercel.app/api/?username=smd255&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-clone-enb2.vercel.app/api/top-langs/?username=smd255&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
